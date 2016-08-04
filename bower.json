@@ -44,6 +44,7 @@
         "test"
     ],
     "dependencies": {
-        "angular": "1.4.0"
+        "angular": "1.4.0",
+        "color-thief": "2.0.1"
     }
 }
